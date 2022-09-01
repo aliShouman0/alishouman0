@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io/)
+ [![MasterHead](https://www.mojomedia.pro/wp-content/uploads/1_9npnpvh7inj64koq7ecw5a.jpeg)]()
 <img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Computer-screen-code-glitch-animation-gif-background-free.gif/800px-Computer-screen-code-glitch-animation-gif-background-free.gif?20180213040859">
 <h1 align="center">Hi 👋, I'm Ali Alrida Shouman</h1>
 <h3 align="center">A Passionate Developer From Lebanon</h3>
