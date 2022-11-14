@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Computer-screen-code-glitch-animation-gif-background-free.gif/800px-Computer-screen-code-glitch-animation-gif-background-free.gif?20180213040859">
 
 - 🔭 I’m currently working on On You Way Project
-- 
+ 
 - 🌱 I’m currently learning **React Native**   
 
 - 💬 Ask me about **OOP,Java,JS,PHP**
