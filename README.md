@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Ali Alrida Shouman</h1>
 <h3 align="center">A Passionate Developer From Lebanon</h3>
-<img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Computer-screen-code-glitch-animation-gif-background-free.gif/800px-Computer-screen-code-glitch-animation-gif-background-free.gif?20180213040859">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
 
 - 🔭 I’m currently working on On You Way Project
  
