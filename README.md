@@ -1,4 +1,4 @@
- [![MasterHead](https://www.mojomedia.pro/wp-content/uploads/1_9npnpvh7inj64koq7ecw5a.jpeg)]()
+ [![MasterHead](https://www.mojomedia.pro/wp-content/uploads/1_9npnpvh7inj64koq7ecw5a.jpeg)]
  
 <h1 align="center">Hi 👋, I'm Ali Alrida Shouman</h1>
 <h3 align="center">A Passionate Developer From Lebanon</h3>
