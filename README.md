@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **alishouman010@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zwBEqp7q4j8Qr7iMkislg51JWtXYKDbW/edit)
+- 📄 Discover my experiences [Resume](https://drive.google.com/file/d/1zwBEqp7q4j8Qr7iMkislg51JWtXYKDbW/edit)
 
 - ⚡ Fun fact **printf("Be Always Positive.");**
 
