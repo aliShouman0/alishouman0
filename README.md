@@ -7,8 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alishouman0&label=Profile%20views&color=009dff&style=flat" alt="alishouman0" /> </p>
 
 
-- 🔭 I’m currently working on [On You Way Project](https://github.com/aliShouman0/on-your-way)
-
+- 🔭 I’m currently working on my personal/portfolio  [website](http://alishouman.com/welcome) [alishouman.com](http://alishouman.com/welcome)
 - 💬 Ask me about **ReactJs,Laravel or anything new that I can begin to learn.**
 
 - 📫 How to reach me **alishouman010@gmail.com**
