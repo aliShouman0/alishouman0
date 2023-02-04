@@ -6,9 +6,9 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alishouman0&label=Profile%20views&color=009dff&style=flat" alt="alishouman0" /> </p>
 
-- 🚀 Check out my new portfolio [website](http://alishouman.com) [alishouman.com](http://alishouman.com)
+- 🚀 **Check out my new portfolio [website alishouman.com](http://alishouman.com)**
 
-- 🔭 I'm currently learning Redux.
+- 🔭 I'm currently learning [Redux.](https://redux.js.org/)
 
 - 💬 Ask me about **ReactJs,Laravel or anything new that I can begin to learn.**
 
