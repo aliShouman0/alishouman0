@@ -6,8 +6,10 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alishouman0&label=Profile%20views&color=009dff&style=flat" alt="alishouman0" /> </p>
 
+- 🚀 Check out my new portfolio [website](http://alishouman.com) [alishouman.com](http://alishouman.com)
 
-- 🔭 I’m currently working on my personal/portfolio  [website](http://alishouman.com/welcome) [alishouman.com](http://alishouman.com/welcome)
+- 🔭 I'm currently learning Redux.
+
 - 💬 Ask me about **ReactJs,Laravel or anything new that I can begin to learn.**
 
 - 📫 How to reach me **alishouman010@gmail.com**
